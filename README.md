@@ -4,7 +4,8 @@ _Diseño y estructura para crear un portafolio agradable y optimo._
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Estas instrucciones te permitirán obtener una copia del proyecto en
+funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
@@ -13,18 +14,20 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 _Copia el repositorio con los siguientes comandos_
 
 ```
-git clone https://github.com/josecerna-dev/Portafolio.git
+git clone https://github.com/joseluiscerna3897/portafolio
 ```
 
 _O simplemente descargue el proyecto._
 
 ## Autor ✒️
 
-- **Jose Cerna** - _Trabajo Inicial_ - [JOSECERNA](https://github.com/josecerna-dev)
+- **Jose Cerna** - _Trabajo Inicial_ -
+  [JOSECERNA](https://github.com/joseluiscerna3897)
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (MIT) - mira el archivo
+[LICENSE.md](LICENSE.md) para detalles
 
 ## Expresiones de Gratitud 🎁
 
@@ -34,4 +37,4 @@ Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE.md](LICENS
 
 ---
 
-⌨️ con ❤️ por [JoseCerna](https://github.com/josecerna-dev) 😊
+⌨️ con ❤️ por [JoseCerna](https://github.com/joseluiscerna3897) 😊
